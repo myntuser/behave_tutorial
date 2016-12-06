@@ -1,0 +1,98 @@
+INFO: 2016-12-02 12:20:43,240: Beginning of test
+INFO: 2016-12-02 12:20:43,275: End of test
+INFO: 2016-12-02 12:28:24,474: Beginning of test
+INFO: 2016-12-02 12:28:24,477: Beginning of feature: showing off behave
+INFO: 2016-12-02 12:28:24,479: Beginning of scenario: run a simple test
+INFO: 2016-12-02 12:28:24,480: Beginning of step: we have behave installed
+INFO: 2016-12-02 12:28:24,480: End of step: we have behave installed
+INFO: 2016-12-02 12:28:24,483: Beginning of step: we implement a test
+INFO: 2016-12-02 12:28:24,483: End of step: we implement a test
+INFO: 2016-12-02 12:28:24,483: Beginning of step: behave will test it for us!
+INFO: 2016-12-02 12:28:24,484: End of step: behave will test it for us!
+INFO: 2016-12-02 12:28:24,484: End of scenario: run a simple test
+INFO: 2016-12-02 12:28:24,484: Beginning of scenario: run a simple test
+INFO: 2016-12-02 12:28:24,486: Beginning of step: we have behave installed
+INFO: 2016-12-02 12:28:24,486: End of step: we have behave installed
+INFO: 2016-12-02 12:28:24,487: Beginning of step: we implement a test
+INFO: 2016-12-02 12:28:24,487: End of step: we implement a test
+INFO: 2016-12-02 12:28:24,489: Beginning of step: behave will test it for us!
+INFO: 2016-12-02 12:28:24,489: End of step: behave will test it for us!
+INFO: 2016-12-02 12:28:24,489: End of scenario: run a simple test
+INFO: 2016-12-02 12:28:24,489: End of feature: showing off behave
+INFO: 2016-12-02 12:28:24,489: End of test
+INFO: 2016-12-02 12:31:38,553: Beginning of test
+INFO: 2016-12-02 12:31:38,555: Beginning of feature: showing off behave
+INFO: 2016-12-02 12:31:38,556: Beginning of scenario: run a simple test
+INFO: 2016-12-02 12:31:38,559: Beginning of step: we have behave installed
+INFO: 2016-12-02 12:31:38,559: End of step: we have behave installed
+INFO: 2016-12-02 12:31:38,559: Beginning of step: we implement a test
+INFO: 2016-12-02 12:31:38,561: End of step: we implement a test
+INFO: 2016-12-02 12:31:38,562: Beginning of step: behave will test it for us!
+INFO: 2016-12-02 12:31:38,562: End of step: behave will test it for us!
+INFO: 2016-12-02 12:31:38,562: End of scenario: run a simple test
+INFO: 2016-12-02 12:31:38,562: Beginning of scenario: run a simple test
+INFO: 2016-12-02 12:31:38,563: Beginning of step: we have behave installed
+INFO: 2016-12-02 12:31:38,563: End of step: we have behave installed
+INFO: 2016-12-02 12:31:38,565: Beginning of step: we implement a test
+INFO: 2016-12-02 12:31:38,565: End of step: we implement a test
+INFO: 2016-12-02 12:31:38,566: Beginning of step: behave will test it for us!
+INFO: 2016-12-02 12:31:38,566: End of step: behave will test it for us!
+INFO: 2016-12-02 12:31:38,566: End of scenario: run a simple test
+INFO: 2016-12-02 12:31:38,566: End of feature: showing off behave
+INFO: 2016-12-02 12:31:38,566: End of test
+INFO: 2016-12-02 12:32:41,197: Beginning of test
+INFO: 2016-12-02 12:33:55,289: Beginning of test
+INFO: 2016-12-02 12:33:55,292: Beginning of feature: showing off behave
+INFO: 2016-12-02 12:33:55,292: Beginning of scenario: run a simple test
+INFO: 2016-12-02 12:33:55,295: Beginning of step: we have behave installed
+INFO: 2016-12-02 12:33:55,295: End of step: we have behave installed
+INFO: 2016-12-02 12:33:55,296: Beginning of step: we implement a test
+INFO: 2016-12-02 12:33:55,296: End of step: we implement a test
+INFO: 2016-12-02 12:33:55,296: Beginning of step: behave will test it for us!
+INFO: 2016-12-02 12:33:55,296: End of step: behave will test it for us!
+INFO: 2016-12-02 12:33:55,298: End of scenario: run a simple test
+INFO: 2016-12-02 12:33:55,298: Beginning of scenario: run a simple test
+INFO: 2016-12-02 12:33:55,299: Beginning of step: we have behave installed
+INFO: 2016-12-02 12:33:55,299: End of step: we have behave installed
+INFO: 2016-12-02 12:33:55,301: Beginning of step: we implement a test
+INFO: 2016-12-02 12:33:55,301: End of step: we implement a test
+INFO: 2016-12-02 12:33:55,302: Beginning of step: behave will test it for us!
+INFO: 2016-12-02 12:33:55,302: End of step: behave will test it for us!
+INFO: 2016-12-02 12:33:55,302: End of scenario: run a simple test
+INFO: 2016-12-02 12:33:55,302: End of feature: showing off behave
+INFO: 2016-12-02 12:33:55,302: End of test
+INFO: 2016-12-02 12:36:52,447: Beginning of test
+INFO: 2016-12-02 12:36:52,450: Beginning of feature: showing off behave
+INFO: 2016-12-02 12:38:28,457: Beginning of test
+INFO: 2016-12-02 12:38:28,460: Beginning of feature: showing off behave
+INFO: 2016-12-02 12:38:28,460: Beginning of scenario: run a simple test
+INFO: 2016-12-02 12:38:28,463: Beginning of step: we have behave installed
+INFO: 2016-12-02 12:39:22,598: Beginning of test
+INFO: 2016-12-02 12:39:22,599: Beginning of feature: showing off behave
+INFO: 2016-12-02 12:39:22,601: Beginning of scenario: run a simple test
+INFO: 2016-12-02 12:39:22,601: Beginning of step: we have behave installed
+INFO: 2016-12-02 12:40:48,440: Beginning of test
+INFO: 2016-12-02 12:40:48,444: Beginning of feature: showing off behave
+INFO: 2016-12-02 12:40:48,444: Beginning of scenario: run a simple test
+INFO: 2016-12-02 12:40:48,450: Beginning of step: we have behave installed
+INFO: 2016-12-02 12:40:48,450:   In order to increase the ninja survival rate,
+  As a ninja commander
+  I want my ninjas to decide whether to take on an
+  opponent based on their skill levels
+INFO: 2016-12-02 12:40:48,450: End of step: we have behave installed
+INFO: 2016-12-02 12:40:48,453: Beginning of step: we implement a test
+INFO: 2016-12-02 12:40:48,454: End of step: we implement a test
+INFO: 2016-12-02 12:40:48,456: Beginning of step: behave will test it for us!
+INFO: 2016-12-02 12:40:48,456: End of step: behave will test it for us!
+INFO: 2016-12-02 12:40:48,457: End of scenario: run a simple test
+INFO: 2016-12-02 12:40:48,457: Beginning of scenario: run a simple test
+INFO: 2016-12-02 12:40:48,459: Beginning of step: we have behave installed
+INFO: 2016-12-02 12:40:48,460: None
+INFO: 2016-12-02 12:40:48,461: End of step: we have behave installed
+INFO: 2016-12-02 12:40:48,464: Beginning of step: we implement a test
+INFO: 2016-12-02 12:40:48,464: End of step: we implement a test
+INFO: 2016-12-02 12:40:48,466: Beginning of step: behave will test it for us!
+INFO: 2016-12-02 12:40:48,467: End of step: behave will test it for us!
+INFO: 2016-12-02 12:40:48,467: End of scenario: run a simple test
+INFO: 2016-12-02 12:40:48,467: End of feature: showing off behave
+INFO: 2016-12-02 12:40:48,467: End of test
